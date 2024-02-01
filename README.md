@@ -1,2 +1,2 @@
 # in-class-conflicts
-This repo is for causing in-class conflict
+This repo is for causing in-class conflict.
